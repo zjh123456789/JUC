@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccf5a89f-c23d-4cd8-8471-7c74907e0fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/zhujinghui/juc/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/zhujinghui/juc/c_000/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/JUC.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pers/zhujinghui/juc/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pers/zhujinghui/juc/c_000/Test1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pers/zhujinghui/juc/c_000/Test1$T1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pers/zhujinghui/juc/c_000/Test1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zjh123456789/JUC.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gK6DkNu3fUUx8HTFhKXBGK0Qoc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.zhujinghui.juc.Test" />
+      <module name="JUC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.zhujinghui.juc.c_000.Test1" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.zhujinghui.juc.c_000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf5a89f-c23d-4cd8-8471-7c74907e0fce" name="Default Changelist" comment="" />
+      <created>1597850818823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597850818823</updated>
+      <workItem from="1597850821936" duration="3036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="-902" key="#Project_Structure" timestamp="1597850859577">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="554" y="-902" key="#Project_Structure/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597850859577" />
+    <state x="767" y="-851" key="#com.intellij.ide.util.MemberChooser" timestamp="1597851367216">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="767" y="-851" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597851367216" />
+    <state x="741" y="-702" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597851088004">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="741" y="-702" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597851088004" />
+    <state x="562" y="-970" key="CommitChangelistDialog2" timestamp="1597854388735">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="562" y="-970" key="CommitChangelistDialog2/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854388735" />
+    <state x="340" y="-908" key="DiffContextDialog" timestamp="1597854016750">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="340" y="-908" key="DiffContextDialog/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854016750" />
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1597854405434">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854405434" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1597854405433">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854405433" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1597854405433">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854405433" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1597854405433">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854405433" />
+    <state x="442" y="-986" key="SettingsEditor" timestamp="1597851011848">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="442" y="-986" key="SettingsEditor/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597851011848" />
+    <state x="554" y="-1021" key="Vcs.Push.Dialog.v2" timestamp="1597854394524">
+      <screen x="2" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="554" y="-1021" key="Vcs.Push.Dialog.v2/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1597854394524" />
+  </component>
+</project>
